@@ -79,6 +79,7 @@
     },
     "devDependencies": {
         "@solana/addresses": "workspace:*",
+        "@solana/codecs": "workspace:*",
         "@solana/functional": "workspace:*"
     },
     "peerDependencies": {
